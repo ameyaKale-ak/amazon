@@ -1,0 +1,12 @@
+In this tutorial we will learn how to convert image into ASCII Art for terminal in Python.
+
+ASCII Art is the art of creating pictures out of text.
+
+ASCII MAGIC:
+Python package that converts images into ASCII art for terminals and HTML. Code based on ProfOak's Ascii Py.
+Installation: pip install ascii_magic
+
+Thank you for Watching!!!
+LIKE, COMMENT, SHARE & SUBSCRIBE to my channel!
+
+#ImagetoAscii #ASCIIArt #CodexPython #PythonTutorial #PythonProjects 
