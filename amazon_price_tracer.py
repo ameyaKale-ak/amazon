@@ -32,4 +32,4 @@ while True:
     randomHeader = {'User-Agent':str(user.random)}
     print('Tracking.....',time.asctime(time.localtime(time.time())))
     tracker(randomHeader)
-    time.sleep(60*5) #5 minutes
+    time.sleep(60*5) #15
